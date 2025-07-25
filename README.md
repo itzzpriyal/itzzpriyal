@@ -104,6 +104,17 @@
 - 💻 GitHub: [github.com/itzzpriyal](https://github.com/itzzpriyal)
 
 ---
+---
+
+## 📊 GitHub Stats
+![Priyal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzzpriyal&layout=compact&theme=radical)
+
+![Priyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzzpriyal&show_icons=true&theme=radical)
+
+![Priyal's GitHub Streak](https://streak-stats.demolab.com/?user=itzzpriyal&theme=radical)
+
+
+
 
 _“With perseverance and a problem-solving mindset, I strive to make meaningful tech-driven impact.”_
 
