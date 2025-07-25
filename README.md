@@ -99,7 +99,7 @@
 
 ## 📂 My Repositories
 
-- 🔗 [Email Event Tracker](https://github.com/itzzpriyal/email-event-tracker)  
+- 🔗 [Email Event Tracker](https://github.com/itzzpriyal/SendGrid-Event-Tracker)  
 - 🔗 [Plagiarism Checker](https://github.com/itzzpriyal/Plagirism-Checker)  
 
 
