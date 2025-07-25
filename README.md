@@ -86,20 +86,30 @@
 ![SendGrid](https://img.shields.io/badge/SendGrid-00B4B4?style=flat&logo=sendgrid&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-
 ---
 
-## 🚧 Course Projects
+## 🚧Projects
 
 - **Blood Bank Management System** — MySQL + ER Modeling  
 - **Smart Autonomous Tram** — Arduino + Zigbee + IR/UV sensors  
-- **Robotic Hand Grip** — 3D-printed servo-controlled arm
+- **Robotic Hand Grip** — 3D-printed servo-controlled arm  
+- **Plagiarism Checker** — Developed a content plagiarism detector using NLP and cosine similarity in Python
 
 ---
-## 📊 GitHub Stats
-![Priyal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzzpriyal&layout=compact&theme=radical)
 
+## 📂 My Repositories
+
+- 🔗 [Email Event Tracker](https://github.com/itzzpriyal/email-event-tracker)  
+- 🔗 [Plagiarism Checker](https://github.com/itzzpriyal/plagiarism-checker)  
+
+
+---
+
+## 📊 GitHub Stats
+
+![Priyal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzzpriyal&layout=compact&theme=radical)  
 ![Priyal's GitHub Streak](https://streak-stats.demolab.com/?user=itzzpriyal&theme=radical)
+
 ---
 
 ## 📫 Let's Connect
