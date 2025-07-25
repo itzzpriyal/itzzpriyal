@@ -100,7 +100,7 @@
 ## 📂 My Repositories
 
 - 🔗 [Email Event Tracker](https://github.com/itzzpriyal/email-event-tracker)  
-- 🔗 [Plagiarism Checker](https://github.com/itzzpriyal/plagiarism-checker)  
+- 🔗 [Plagiarism Checker](https://github.com/itzzpriyal/Plagirism-Checker)  
 
 
 ---
