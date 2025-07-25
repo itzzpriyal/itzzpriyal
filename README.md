@@ -72,7 +72,7 @@
 
 ---
 
-**Full Stack Intern – Email Event Tracker**  
+**Email Event Tracker - BARCO**  
 *June 2025 – July 2025*  
 📁 **Project 2: Real-Time Email Tracking Dashboard**
 - Created email delivery dashboard with React + SendGrid webhooks  
@@ -89,7 +89,7 @@
 
 ---
 
-## 🚧 Projects
+## 🚧 Course Projects
 
 - **Blood Bank Management System** — MySQL + ER Modeling  
 - **Smart Autonomous Tram** — Arduino + Zigbee + IR/UV sensors  
