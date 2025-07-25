@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Priyal 👋
 
-<!--
-**itzzpriyal/itzzpriyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a developer exploring backend systems and APIs.  
+💌 Currently working on SendGrid, MongoDB, and webhook-based projects.
 
-Here are some ideas to get you started:
+## 🚀 My Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![SendGrid](https://img.shields.io/badge/-SendGrid-black?style=flat-square&logo=sendgrid)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+![Priyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzzpriyal&show_icons=true&theme=radical)
+
+---
+
+## 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/priyal-gupta04)
+
+---
+
+_Thanks for visiting! 🌱_
