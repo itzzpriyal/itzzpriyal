@@ -11,6 +11,7 @@
 - 🔭 Currently working on: **OAuth 2.0 auth systems** using Microsoft Entra ID & MuleSoft Flex Gateway  
 - 🌱 Exploring: **Kubernetes**, **CIAM**, **Zero Trust security**, and **webhooks**  
 - 🛠️ Building: Email event tracker with **React**, **Node.js**, **MongoDB**, and **SendGrid**  
+- 🤖 Recently built: **A Chat Assistant** using **Python** and **OpenAI API**  
 - 💬 Ask me about: API security, REST, event-driven systems, or Arduino hardware projects  
 
 ---
@@ -87,12 +88,26 @@
 
 ---
 
-## 🚧Projects
+**Chat Assistant (Python + OpenAI)**  
+*August 2025*  
+📁 **Project 3: AI-powered Chat Assistant**
+- Built an interactive chatbot using **Python** and **OpenAI API**  
+- Allowed dynamic system prompts and conversational memory  
+- Designed modular code for easy integration with other apps
+
+🛠️ Tech Used:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+---
+
+## 🚧 Projects
 
 - **Blood Bank Management System** — MySQL + ER Modeling  
 - **Smart Autonomous Tram** — Arduino + Zigbee + IR/UV sensors  
 - **Robotic Hand Grip** — 3D-printed servo-controlled arm  
-- **Plagiarism Checker** — Developed a content plagiarism detector using NLP and cosine similarity in Python
+- **Plagiarism Checker** — Developed a content plagiarism detector using NLP and cosine similarity in Python  
+- **Chat Assistant** — AI-powered assistant using Python & OpenAI API  
 
 ---
 
@@ -100,7 +115,7 @@
 
 - 🔗 [Email Event Tracker](https://github.com/itzzpriyal/SendGrid-Event-Tracker)  
 - 🔗 [Plagiarism Checker](https://github.com/itzzpriyal/Plagirism-Checker)  
-
+- 🔗 [Chat Assistant](https://github.com/itzzpriyal/Chat-Assistant)  
 
 ---
 
