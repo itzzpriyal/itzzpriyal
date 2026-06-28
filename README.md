@@ -1,9 +1,12 @@
-# 👋 Hi, I'm Priyal Gupta
+👋 Hi, I'm Priyal Gupta
 
-🎓 I'm a Computer Engineering student at Thapar Institute of Engineering & Technology and a Software Development Intern at BARCO.
-🚀 I'm passionate about building AI-powered systems, scalable software platforms, and secure cloud-native applications.
-🤖 My interests span Machine Learning, Generative AI, Data Engineering, Full-Stack Development, and API Security.
-💡 I enjoy turning complex ideas into practical solutions that solve real-world problems.
+🎓 Computer Engineering student at Thapar Institute of Engineering & Technology.
+
+💻 Former Software Development Intern at BARCO, where I worked on enterprise Identity & Access Management, API Security, and scalable cloud-native solutions.
+
+🚀 Passionate about Software Engineering, Generative AI, Machine Learning, Data Engineering, Full-Stack Development, and Distributed Systems.
+
+🌱 I enjoy building impactful products, solving challenging algorithmic problems, and transforming innovative ideas into real-world applications.
 
 ---
 
