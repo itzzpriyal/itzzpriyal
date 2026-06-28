@@ -7,17 +7,6 @@
 
 ---
 
-## 🧠 About Me
-
-* 🔭 Currently working on: **OAuth 2.0 authentication systems** using Microsoft Entra ID & MuleSoft Flex Gateway
-* 🤖 Building AI-powered developer tools and intelligent automation systems
-* 📊 Interested in **Machine Learning, Data Engineering, NLP, and Generative AI**
-* 📦 Published a **TOPSIS Decision-Making Package** on PyPI
-* 🌱 Exploring: **Kubernetes**, **CIAM**, **Zero Trust Security**, **LLMs**, and **AI-assisted software engineering**
-* 💬 Ask me about: API Security, Machine Learning, REST APIs, Event-Driven Systems, or Arduino Projects
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -53,10 +42,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat\&logo=oracle\&logoColor=white)
 
-### IoT & Hardware
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat\&logo=arduino\&logoColor=white)
-![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=flat\&logo=zigbee\&logoColor=white)
 
 ---
 
